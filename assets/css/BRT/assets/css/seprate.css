@@ -1,0 +1,228 @@
+/*ChangeStyleScreeen*/
+
+@media screen and (min-width:1024px){
+    
+    h5 { 
+        font-size: 1.042vw!important;
+       
+    } 
+    h2 {
+        font-size: 2.656vw!important;
+    } 
+    .home p {
+        font-size: 0.781vw;
+        line-height: 1.354vw;
+    }    
+    .home .heroText h5 {
+        font-size: 1.042vw;
+    }       
+    .home .heroText h1 {
+        font-size: 2.656vw;
+        line-height: 2.865vw;
+        margin: 0.781vw 0 1.458vw;
+        max-width: 26.354vw;
+    }   
+    .heroText p {
+        font-size: 0.781vw;
+        line-height: 1.354vw;
+        margin-bottom: 2.969vw;
+    }
+    .bannerVideo {
+        position: absolute;
+        top: 50%;
+        left: 54%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        max-width: 59.271vw;
+    }
+    .home section.welcomeBlock .container {
+        max-width: 78.125vw!important;
+    }
+    html body.home section.welcomeBlock .container .welComeInner {
+        max-width: 59.375vw!important;
+    }
+    section.welcomeBlock .welComeInner h5 {
+        margin-bottom: 2.083vw;
+    }
+    .appoinmentBlock .btn.btn-primary {
+        background-color: var(--darkColor--001);
+        margin-top: 15px;
+        border-color: var(--darkColor--001);
+        padding: 0.417vw 2.708vw;
+    }
+    section.welcomeBlock .iconApp img {
+        max-width: 10.473vw;
+        margin: auto;
+        height: 19vw;
+        object-fit: contain;
+    }
+    .iconApp {
+        min-height: 15.26vw;
+    }
+ 
+    header .container {
+        max-width: 93.704vw!important;
+    }
+    .home section.welcomeBlock {
+        padding: 5.124vw 15px 100px;
+    }
+
+    .btn.btn-primary {      
+        font-size: 1vw;
+    }
+    .aboutUsBlock .textBlock p.mb-5 {
+        margin-bottom: 1.563vw!important;
+    }
+    html .home .aboutUsBlock .textBlock a.btn.btn-primary {
+        margin-top: 1.406vw!important;
+    }
+    .btn.btn-primary.redButton {       
+        font-size: 0.781vw;
+        padding: 0.26vw 1.823vw;
+    }
+    section.aboutUsBlock {
+        padding-bottom: 4.948vw;
+    }
+    .helpYouInner h2 {
+        margin-bottom: 2.083vw;
+    }
+    section.helpYouBlock .helpYouInner .welComeInner {
+        margin-bottom: 2.604vw;
+    }
+    .findOutMore .card h5 {
+        font-size: 1.042vw;
+    }
+    html body.home .approachesBlock {
+        padding: 7.031vw 0!important;
+    }
+    .approachesBlock .textBlock {
+        max-width: 36.198vw;
+    }
+    section.ourTreatments .welComeInner {
+        margin-bottom: 2.604vw!important;
+    }
+    .findOutMore .card {
+        min-height: 8.49vw;
+    }
+    .allTreatmentIcons .iconBlock .iconInner .iconRound .iconBinner.bigRound {
+        width: 8.854vw;
+        height: 8.854vw;
+    }
+    .allTreatmentIcons .iconBlock .iconInner .iconRound .iconBinner {
+        width: 5.938vw;
+        height: 5.938vw;
+    }
+    .allTreatmentIcons .iconBlock .iconInner .iconRound .iconBinner img {
+        max-width: 2.604vw;
+    }
+    .allTreatmentIcons .iconBlock .iconInner .iconRound .headtIconCenter img {
+        max-width: 100%!important;
+    }
+    .iconscard .iconRound p {
+        font-size: 0.885vw;
+        margin-top: 0.729vw;
+        max-width: 7.552vw;
+    } 
+    .home section.brtExpBlock {
+        padding: 9.74vw 15px 8.438vw;
+    }
+    .videoBlock .videoBlockInner {
+        height: 26.042vw;
+    }
+    .videoBlock .welComeInner h2 {
+        margin-bottom: 2.813vw;
+        font-size: 3.854vw!important;
+        max-width: 26.042vw;
+    }
+    .home section.ourPartnershipsBlock {
+        padding: 7.917vw 0.781vw 5.729vw!important;
+    }
+
+    .brandPartners {
+        max-width: 55.729vw;
+        margin-top: 3.646vw;
+    }
+    .home section.sliderBlock {
+        padding: 2.865vw 15px 7.292vw;
+    }
+    section.sliderBlock .welComeInner {
+        margin-bottom: 3.646vw;
+    } 
+    .home section.sliderBlock.secondSlider {
+        padding-bottom: 3.906vw;
+    }
+    section.rnHighlights {
+        padding: 5.729vw 0.781vw 0;
+    }
+    .topfooter, .bttomFooter {
+        padding: 5.885vw 15px 3.125vw;
+    }
+    .brandPartners .brandCard .brandIcons img {
+        max-width: 7.344vw;
+       
+    }
+    .findOutMore .card p {
+        max-width: 14.063vw;
+       
+    }
+    .heroImgeBanner {
+        height: 33.854vw;
+    }
+    section.rnHighlights .container {
+        max-width: 78.125vw!important;
+    }
+    .hightlightsCarsBlock .highlightsCards .highlightsImages img {
+        max-width: 21.979vw!important;
+    }
+    .hightlightsCarsBlock {
+        padding-top: 10.417vw;
+        gap: 1.667vw;
+    } 
+    section.rnHighlights:after {       
+        height: 38.021vw;
+    }
+    section.rnHighlights .hightlightsB {
+        max-width: 87.125vw!important;
+        margin: auto;
+    } 
+    section.sliderBlock .container {
+        max-width: 87.125vw!important;
+    }
+    section.rnHighlights .container {
+        max-width: 87.125vw!important;
+    } 
+
+    /* header */
+    header .menusBlock .bottomMenus div#mega-menu-wrap-Secondary-Menu ul#mega-menu-Secondary-Menu>li>a {
+        font-size: 0.781vw!important;
+    }
+    .topMenus #mega-menu-wrap-primary #mega-menu-primary>li.mega-menu-item a {
+        font-size: 0.781vw!important;
+    }
+    header .menusBlock .bottomMenus div#mega-menu-wrap-Secondary-Menu ul#mega-menu-Secondary-Menu>li:last-child a.mega-menu-link {
+        max-width: 8.542vw;
+        line-height: 0.729vw;
+    }
+    header .menusBlock .bottomMenus div#mega-menu-wrap-Secondary-Menu ul#mega-menu-Secondary-Menu>li:last-child a.mega-menu-link {
+        max-width: 8.542vw;
+        line-height: 0.729vw;
+        height: 2.083vw;
+    }
+    .heroImgeBanner img#bannerImage {
+    filter: contrast(0.7);
+}
+    .girlImg {
+    position: absolute;
+    top: -1vw;
+    max-width: 33.75vw;
+}
+    header .container {
+    max-width: 93.704vw!important;
+}
+}
+
+
+
+
+
+/*StleCloseChange*/
